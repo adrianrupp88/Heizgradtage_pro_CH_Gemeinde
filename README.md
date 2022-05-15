@@ -12,7 +12,7 @@ In der Schweiz wird die Kennzahl „Heizgradtage“ für diese Problemstellungen
 Quelle: Bundesamt für Statistik​
 URL: https://www.bfs.admin.ch/bfs/de/home/dienstleistungen/geostat/geodaten-bundesstatistik/administrative-grenzen/generalisierte-gemeindegrenzen.assetdetail.21224783.html​
 
-​2. Gemittelte Temperatur-Rasterdaten (2km) pro Monat​ für die Jahre 1991-2020
+2. Gemittelte Temperatur-Rasterdaten (2km) pro Monat​ für die Jahre 1991-2020
 Quelle: Meteo Schweiz​
 URL: https://www.meteoschweiz.admin.ch/content/dam/meteoswiss/de/Ungebundene-Seiten/Produkte/doc/tnorm9120.zip​
 
