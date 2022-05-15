@@ -6,7 +6,7 @@ Dadurch steigt das Bedürfnis, die Heizanlage zu optimieren und bei Neuanschaffu
 Für die Nebenkostenabrechnung wird die Heizgradzahl gebraucht, um den Mietern eine möglichst genaue Nebenkostenabrechnung ohne übertriebenen Aufwand ausstellen. Damit man dies auch bei Mieterwechsel möglichst genau berechnen kann, ist die Information zum Bedarf von Heizenergie pro Monat wichtig. 
 In der Schweiz wird die Kennzahl „Heizgradtage“ für diese Problemstellungen verwendet. Diese Kennzahl ist öffentlich nur für wenige Orte verfügbar. In dieser Arbeit werden diese Heizgradtage pro Gemeinde berechnet. 
 
-![Heizgradtage pro Gemeinde](/repository/data/plot.png?raw=true "Heizgradtage pro Gemeinde")
+![Heizgradtage pro Gemeinde](/data/plot.png?raw=true "Heizgradtage pro Gemeinde")
 
 ## Daten
 1. Metadaten zu den Gemeinden (Position, Höhenlage etc.)​
