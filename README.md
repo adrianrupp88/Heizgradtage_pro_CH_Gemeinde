@@ -2,9 +2,9 @@
 
 # Kurzbeschrieb
 Die drei nachfolgenden Jupiter-Notebooks berechnen pro Gemeinde die Heizgradzahl. Die Berechnungen werden auf Basis von den 2km-Raster Temperaturdaten pro Monat (gemittelt von den Jahren 1991-2020) berechnet.
-[Extract Files][1_DatenLaden.ipynb]
-[Extract Files][2_DatenAufbereiten.ipynb]
-[Extract Files][4_Resultate_Ploten.ipynb]
+[Daten Laden](/1_DatenLaden.ipynb)
+[Daten Aufbereiten](/2_DatenAufbereiten.ipynb)
+[Plote](4_Resultate_Ploten.ipynb)
 
 ## Motivation
 In der Schweiz fallen rund 23.9 % (Jahr 2020) der Treibhausgase im Bereich Gebäude an. Quelle: https://www.bafu.admin.ch/bafu/de/home/themen/klima/zustand/daten/treibhausgasinventar/gebaeude.html
