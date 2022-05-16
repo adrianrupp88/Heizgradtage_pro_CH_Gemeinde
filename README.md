@@ -1,6 +1,12 @@
 # Heizgradtage pro Schweizer Gemeinde
 
-## Einleitung
+# Kurzbeschrieb
+Die drei nachfolgenden Jupiter-Notebooks berechnen pro Gemeinde die Heizgradzahl. Die Berechnungen werden auf Basis von den 2km-Raster Temperaturdaten pro Monat (gemittelt von den Jahren 1991-2020) berechnet.
+[Extract Files][1_DatenLaden.ipynb]
+[Extract Files][2_DatenAufbereiten.ipynb]
+[Extract Files][4_Resultate_Ploten.ipynb]
+
+## Motivation
 In der Schweiz fallen rund 23.9 % (Jahr 2020) der Treibhausgase im Bereich Gebäude an. Quelle: https://www.bafu.admin.ch/bafu/de/home/themen/klima/zustand/daten/treibhausgasinventar/gebaeude.html
 Dadurch steigt das Bedürfnis, die Heizanlage zu optimieren und bei Neuanschaffung einen möglichst effizienten Betrieb zu garantieren. Bei Neu- oder Umbau der Heizanlage werden Informationen zum potenziellen Heizbedarf benötigt.
 Für die Nebenkostenabrechnung wird die Heizgradzahl gebraucht, um den Mietern eine möglichst genaue Nebenkostenabrechnung ohne übertriebenen Aufwand ausstellen. Damit man dies auch bei Mieterwechsel möglichst genau berechnen kann, ist die Information zum Bedarf von Heizenergie pro Monat wichtig. 
